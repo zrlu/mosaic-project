@@ -28,6 +28,7 @@ Install Python 3.9
 
 ```bash
 # In your host machine:
+
 pip install flask pymongo
 python app.py
 curl http://localhost:5000/search/project?projectSchoolName=I.S.%20254%20-%20BRONX
